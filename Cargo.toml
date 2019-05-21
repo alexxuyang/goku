@@ -5,3 +5,18 @@ authors = ["xuyang <yang.xu@nbltrust.com>"]
 edition = "2018"
 
 [dependencies]
+tokio = "0.1"
+tokio-threadpool = "0.1.14"
+
+futures = "0.1.26"
+
+bytes = "0.4.12"
+
+serde = "1.0.90"
+serde_derive = "1.0.90"
+serde_json = "1.0.39"
+
+log = "0.4"
+env_logger = "0.6.1"
+
+structopt = "0.2.15"
